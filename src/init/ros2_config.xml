@@ -1,7 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <ros2>
   <prefix>cam_</prefix>
-  <role>master</role>
-  <node name='cam_101698' role='left'/>
-  <node name='cam_1467cd' role='pc'/>
+  <role>not_master</role>
 </ros2>
